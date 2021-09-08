@@ -10,7 +10,7 @@
 # Warm Up
 |   | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
-|   |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Python]() | Easy | 10 | |
-|   |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Python]() | Easy | 10 | |
-|   |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Python]() | Easy | 10 | |
-|   |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Python]() | Easy | 10 | |
+|   |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Python](warm-up/sales-match.py) | Easy | 10 | |
+|   |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Python](warm-up/counting-valleys.py) | Easy | 15 | |
+|   |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Python](warm-up/jumping-clouds.py) | Easy | 20 | |
+|   |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Python](warm-up/repeated-string.py) | Easy | 20 | |
