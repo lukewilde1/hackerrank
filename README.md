@@ -7,6 +7,7 @@
   HackerRank solutions for Interview Prep Kit in Python programmed by <a alt="HackerRank Profile" href="https://www.hackerrank.com/lukewilde98" >Luke Wilde</a>
 </p>
 # Warm Up
+
 |   | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
 |   |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Python]() | [Easy] | [10] | |
