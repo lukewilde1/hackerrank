@@ -37,13 +37,13 @@
 |   | 3 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [JavaScript](10-days-of-js/arrays.js) | Easy | 15 | |
 |   | 3 | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [JavaScript](10-days-of-js/try-catch-finally.js) | Easy | 15 | |
 |   | 3 | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [JavaScript](10-days-of-js/throw.js) | Easy | 15 | |
-|   | 4 | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [JavaScript](10-days-of-js/rectangle.js) | Easy | 15 | |
+|   | 4 | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [JavaScript](10-days-of-js/create-rectangle.js) | Easy | 15 | |
 |   | 4 | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [JavaScript](10-days-of-js/count-objects.js) | Easy | 15 | |
 |   | 4 | [Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [JavaScript](10-days-of-js/classes.js) | Easy | 15 | |
 |   | 5 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [JavaScript](10-days-of-js/inheritance.js) | Easy | 15 | |
 |   | 5 | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [JavaScript](10-days-of-js/template-literals.js) | Easy | 15 | |
 |   | 5 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [JavaScript](10-days-of-js/arrow-functions.js) | Easy | 15 | |
-|   | 6 | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [JavaScript](10-days-of-js/bitwise-operators.js) | Easy | 15 | |
+|   | 6 | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [JavaScript](10-days-of-js/bitwise-operators.js) | Easy | 15 | Terribly worded problem |
 |   | 6 | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [JavaScript](10-days-of-js/dates.js) | Easy | 15 | |
 |   | 7 | [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [JavaScript](10-days-of-js/regex-1.js) | Easy | 15 | |
 |   | 7 | [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [JavaScript](10-days-of-js/regex-2.js) | Easy | 15 | |
